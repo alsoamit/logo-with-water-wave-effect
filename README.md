@@ -1,3 +1,3 @@
 <i> Logo with water-wave-effect </i>
-<strong>PREVIEW</strong>
+PREVIEW
 <img src="/resources/preview.png" />
